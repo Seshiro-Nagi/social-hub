@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608283012168",
+    "project_id": "azem-test-app",
+    "storage_bucket": "azem-test-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608283012168:android:5d89a087e5844a33b4fc7d",
+        "android_client_info": {
+          "package_name": "com.example.social_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKCM8A1nmUXRvQ0BTteSXH6_eHQV1Ta3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

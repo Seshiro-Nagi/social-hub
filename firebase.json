@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"azem-test-app","appId":"1:608283012168:android:5d89a087e5844a33b4fc7d","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"azem-test-app","configurations":{"android":"1:608283012168:android:5d89a087e5844a33b4fc7d","ios":"1:608283012168:ios:4f594e967ecee3e7b4fc7d"}}}}}}
