@@ -7,11 +7,11 @@ class AddNewIcon extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return InkWell(
-      onTap: () {},
+      onTap: onTap,
       child: SvgPicture.asset(
+        "assets/icons/create-note-svgrepo-com.svg",
         width: 50,
         height: 50,
-        "assets/icons/create-note-svgrepo-com.svg",
       ),
     );
   }
