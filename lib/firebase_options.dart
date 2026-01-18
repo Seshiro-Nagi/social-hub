@@ -65,4 +65,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'azem-test-app.firebasestorage.app',
     iosBundleId: 'com.example.socialHub',
   );
+
 }
