@@ -4,6 +4,7 @@ import 'package:social_hub/app/my_app.dart';
 import 'package:social_hub/firebase_options.dart';
 
 void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
   try {
     await Firebase.initializeApp(
       options: DefaultFirebaseOptions.currentPlatform,

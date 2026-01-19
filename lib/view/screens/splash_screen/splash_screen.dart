@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:social_hub/view/screens/home.dart';
+import 'package:social_hub/view/screens/home/home.dart';
 import 'package:social_hub/view/widgets/custom_gradient.dart';
 
 class SplashScreen extends StatelessWidget {
